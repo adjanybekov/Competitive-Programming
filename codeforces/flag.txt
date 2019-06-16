@@ -24,4 +24,6 @@ for j in range(c):
 
 
 
-#complete this
+#complete this 1749 is my raking in this contest, let see how much points we will get although I wish I could precalculate it, and know what is my approximate score,
+#I think it will be +x cuase I have 2successfull and 2 unsuccessfull submissions, question is what is x?
+#Probably it is also counted by the number of ppl solved the problem etc.
