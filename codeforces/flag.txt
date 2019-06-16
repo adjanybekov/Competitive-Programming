@@ -1,0 +1,27 @@
+r = int(input())#map(int,input().split())
+c = int(input())
+
+L=[]
+for i in range(r):
+  s = input()
+  L.append(s)
+
+
+for j in range(c):
+  arr=[0,0,0]
+  upBnd=0
+  #assume this column contains flag
+
+  for i in range(r):
+    L[i][j] #convert this to index fitting in three 
+    
+    arr[ L[i][j] ]+=1    
+    if(arr[0]>0 and arr[0]==arr[1] and arr[1]==arr[2]):
+      #flag found
+      #see if it is a subflag of a bigger flag :)
+
+
+
+
+
+#complete this
