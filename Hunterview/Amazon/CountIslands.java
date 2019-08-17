@@ -1,7 +1,7 @@
 //Initial Template for Java
 import java.util.*;
 import java.io.*;
-import java.lang.*;
+import java.lang.*; 
 class Main
 {
     public static void main (String[] args) {
